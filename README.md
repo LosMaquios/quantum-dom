@@ -1,3 +1,3 @@
 # Quantum DOM
 
-  Simple virtual intended for custom elements
+  Simple virtual DOM intended for custom elements
